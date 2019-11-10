@@ -39,4 +39,5 @@ console.log(products.length);
 //стрілочна функція
 products.forEach(el => console.log(el));
 
+gdfg
 
